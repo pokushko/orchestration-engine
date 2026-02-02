@@ -1,0 +1,3 @@
+# SuperAgents Lite Dependencies
+asyncio
+typing
